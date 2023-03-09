@@ -1,4 +1,3 @@
-// TODO MAKE STATUS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-96&show_icons=true&theme=radical)
 
